@@ -29,7 +29,7 @@ def MandelbrotImage(width, height):
 
 def main():
     start = time.time()
-    image = MandelbrotImage(500, 500)
+    image = MandelbrotImage(1000, 1000)
     image.save("mandelbrot.png")
     print("Time:", time.time() - start)
 
