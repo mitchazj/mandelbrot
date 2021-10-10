@@ -13,4 +13,4 @@ everything is in main.py
 
 ## Speed
 
-Runs in 1.0371119976043701s on my MBP 2020 (i5)
+Runs in 1.037s on my MBP 2020 (i5)
